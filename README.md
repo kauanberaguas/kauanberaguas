@@ -2,17 +2,17 @@
   <img src="banner.jpg" alt="Kauan Beraguas" width="100%" />
 </p>
 
-### about
+### Sobre mim
 Estudante do Ensino Médio com técnico em **Desenvolvimento de Sistemas (AMS - Etec)**, focado em desenvolvimento web, lógica de programação e bancos de dados.
 
 📫 **Contato:** [kauan.beraguas@outlook.com](mailto:kauan.beraguas@outlook.com) • [Instagram](https://instagram.com/kauanberaguas)
 
 ---
 
-### core skills
+### Fundamentos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode" />
   </a>
 </p>
 
