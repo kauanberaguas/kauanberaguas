@@ -12,11 +12,11 @@ Estudante do Ensino Médio com técnico em **Desenvolvimento de Sistemas (AMS - 
 ### fundamentos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,java,mysql,git,github,vscode" />
   </a>
 </p>
 
-- **linguagens:** HTML5 • CSS3 • JavaScript • PHP • SQL • C#
+- **linguagens:** HTML5 • CSS3 • JavaScript • PHP • SQL • C# • Java
 - **ferramentas:** Git • GitHub • VS Code • MySQL
 
 ---
