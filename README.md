@@ -5,19 +5,19 @@
 ### sobre mim
 Estudante do Ensino Médio com técnico em **Desenvolvimento de Sistemas (AMS - Etec)**, focado em desenvolvimento web, lógica de programação e bancos de dados.
 
-📫 **Contato:** [kauan.beraguas@outlook.com](mailto:kauan.beraguas@outlook.com) • [Instagram](https://instagram.com/kauanberaguas)
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI) • [kauan.beraguas@outlook.com](mailto:kauan.beraguas@outlook.com) • [Instagram](https://instagram.com/kauanberaguas)
 
 ---
 
 ### fundamentos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,git,github,vscode" />
   </a>
 </p>
 
-* **linguagens:** HTML5 • CSS3 • JavaScript • PHP • SQL • C#
-* **ferramentas:** Git • GitHub • VS Code • MySQL
+- **linguagens:** HTML5 • CSS3 • JavaScript • PHP • SQL • C#
+- **ferramentas:** Git • GitHub • VS Code • MySQL
 
 ---
 
