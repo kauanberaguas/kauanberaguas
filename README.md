@@ -5,7 +5,7 @@
 ### sobre mim
 Estudante do Ensino Médio com técnico em **Desenvolvimento de Sistemas (AMS - Etec)**, focado em desenvolvimento web, lógica de programação e bancos de dados.
 
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI) • [kauan.beraguas@outlook.com](mailto:kauan.beraguas@outlook.com) • [Instagram](https://instagram.com/kauanberaguas)
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/kauan-beraguas) • [kauan.beraguas@outlook.com](mailto:kauan.beraguas@outlook.com) • [Instagram](https://instagram.com/kauanberaguas)
 
 ---
 
